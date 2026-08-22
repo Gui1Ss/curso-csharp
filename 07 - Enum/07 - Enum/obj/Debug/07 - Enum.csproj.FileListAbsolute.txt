@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\07 - Enum\07 - Enum\bin\Debug\07 - Enum.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\07 - Enum\07 - Enum\bin\Debug\07 - Enum.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\07 - Enum\07 - Enum\bin\Debug\07 - Enum.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\07 - Enum\07 - Enum\obj\Debug\07 - Enum.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\07 - Enum\07 - Enum\obj\Debug\07 - Enum.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\07 - Enum\07 - Enum\obj\Debug\07 - Enum.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\07 - Enum\07 - Enum\obj\Debug\07 - Enum.pdb

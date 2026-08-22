@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\13 - ProjetoCalculadora\13 - ProjetoCalculadora\obj\Debug\13 - ProjetoCalculadora.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\13 - ProjetoCalculadora\13 - ProjetoCalculadora\obj\Debug\13 - ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\13 - ProjetoCalculadora\13 - ProjetoCalculadora\bin\Debug\13 - ProjetoCalculadora.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\13 - ProjetoCalculadora\13 - ProjetoCalculadora\bin\Debug\13 - ProjetoCalculadora.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\13 - ProjetoCalculadora\13 - ProjetoCalculadora\bin\Debug\13 - ProjetoCalculadora.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\13 - ProjetoCalculadora\13 - ProjetoCalculadora\obj\Debug\13 - ProjetoCalculadora.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\13 - ProjetoCalculadora\13 - ProjetoCalculadora\obj\Debug\13 - ProjetoCalculadora.pdb

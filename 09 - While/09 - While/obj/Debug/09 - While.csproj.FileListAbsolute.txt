@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\09 - While\09 - While\bin\Debug\09 - While.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\09 - While\09 - While\bin\Debug\09 - While.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\09 - While\09 - While\bin\Debug\09 - While.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\09 - While\09 - While\obj\Debug\09 - While.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\09 - While\09 - While\obj\Debug\09 - While.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\09 - While\09 - While\obj\Debug\09 - While.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\09 - While\09 - While\obj\Debug\09 - While.pdb

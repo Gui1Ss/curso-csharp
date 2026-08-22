@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\Exercicio Foreach\Exercicio Foreach\bin\Debug\Exercicio Foreach.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\Exercicio Foreach\Exercicio Foreach\bin\Debug\Exercicio Foreach.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\Exercicio Foreach\Exercicio Foreach\bin\Debug\Exercicio Foreach.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\Exercicio Foreach\Exercicio Foreach\obj\Debug\Exercicio Foreach.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\Exercicio Foreach\Exercicio Foreach\obj\Debug\Exercicio Foreach.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\Exercicio Foreach\Exercicio Foreach\obj\Debug\Exercicio Foreach.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\Exercicio Foreach\Exercicio Foreach\obj\Debug\Exercicio Foreach.pdb

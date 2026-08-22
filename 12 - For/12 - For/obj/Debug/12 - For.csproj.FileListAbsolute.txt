@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\12 - For\12 - For\bin\Debug\12 - For.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\12 - For\12 - For\bin\Debug\12 - For.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\12 - For\12 - For\bin\Debug\12 - For.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\12 - For\12 - For\obj\Debug\12 - For.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\12 - For\12 - For\obj\Debug\12 - For.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\12 - For\12 - For\obj\Debug\12 - For.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\12 - For\12 - For\obj\Debug\12 - For.pdb

@@ -1,0 +1,2 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\08 - EnumSwitch\08 - EnumSwitch\obj\Debug\08 - EnumSwitch.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\08 - EnumSwitch\08 - EnumSwitch\obj\Debug\08 - EnumSwitch.csproj.CoreCompileInputs.cache
