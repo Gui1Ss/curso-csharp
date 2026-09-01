@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\16 - FuncoesEmStructs\16 - FuncoesEmStructs\bin\Debug\16 - FuncoesEmStructs.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\16 - FuncoesEmStructs\16 - FuncoesEmStructs\bin\Debug\16 - FuncoesEmStructs.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\16 - FuncoesEmStructs\16 - FuncoesEmStructs\bin\Debug\16 - FuncoesEmStructs.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\16 - FuncoesEmStructs\16 - FuncoesEmStructs\obj\Debug\16 - FuncoesEmStructs.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\16 - FuncoesEmStructs\16 - FuncoesEmStructs\obj\Debug\16 - FuncoesEmStructs.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\16 - FuncoesEmStructs\16 - FuncoesEmStructs\obj\Debug\16 - FuncoesEmStructs.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\16 - FuncoesEmStructs\16 - FuncoesEmStructs\obj\Debug\16 - FuncoesEmStructs.pdb
