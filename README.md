@@ -6,9 +6,9 @@
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-**Progresso do curso:** 45%
+**Progresso do curso:** 50%
 
-![45%](https://progress-bar.xyz/45/?width=400&color=6b46c1)
+![50%](https://progress-bar.xyz/50/?width=400&color=6b46c1)
 
 </div>
 
