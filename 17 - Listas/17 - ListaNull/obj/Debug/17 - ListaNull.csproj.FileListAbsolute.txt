@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\17 - ListaNull\17 - ListaNull\bin\Debug\17 - ListaNull.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\17 - ListaNull\17 - ListaNull\bin\Debug\17 - ListaNull.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\17 - ListaNull\17 - ListaNull\bin\Debug\17 - ListaNull.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\17 - ListaNull\17 - ListaNull\obj\Debug\17 - ListaNull.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\17 - ListaNull\17 - ListaNull\obj\Debug\17 - ListaNull.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\17 - ListaNull\17 - ListaNull\obj\Debug\17 - ListaNull.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\17 - ListaNull\17 - ListaNull\obj\Debug\17 - ListaNull.pdb
