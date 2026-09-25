@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\18 - GestorDeClientesCmd\GestorDeClientesCmd\GestorDeClientesCmd\bin\Debug\GestorDeClientesCmd.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\18 - GestorDeClientesCmd\GestorDeClientesCmd\GestorDeClientesCmd\bin\Debug\GestorDeClientesCmd.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\18 - GestorDeClientesCmd\GestorDeClientesCmd\GestorDeClientesCmd\bin\Debug\GestorDeClientesCmd.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\18 - GestorDeClientesCmd\GestorDeClientesCmd\GestorDeClientesCmd\obj\Debug\GestorDeClientesCmd.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\18 - GestorDeClientesCmd\GestorDeClientesCmd\GestorDeClientesCmd\obj\Debug\GestorDeClientesCmd.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\18 - GestorDeClientesCmd\GestorDeClientesCmd\GestorDeClientesCmd\obj\Debug\GestorDeClientesCmd.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\curso-csharp\18 - GestorDeClientesCmd\GestorDeClientesCmd\GestorDeClientesCmd\obj\Debug\GestorDeClientesCmd.pdb
