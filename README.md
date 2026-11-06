@@ -6,9 +6,9 @@
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-**Progresso do curso:** 65%
+**Status:** ✅ Curso concluído
 
-![65%](https://progress-bar.xyz/65/?width=400&color=6b46c1)
+![100%](https://progress-bar.xyz/100/?width=400&color=6b46c1)
 
 </div>
 
@@ -44,44 +44,34 @@ O objetivo é registrar minha evolução em **C#** enquanto construo uma base s�
 | 04 | Funções com Retorno | `return` e composição | [📖](./04%20-%20Fun%C3%A7%C3%B5es%20com%20Retorno/) |
 | 05 | Arrays | Índices, `.Length`, `for` | [📖](./05%20-%20Arrays/) |
 | 05.1 | 📝 Funções + Arrays | Acumulador e busca de extremos | [📖](./05.1%20-%20Exerc%C3%ADcio%20-%20Fun%C3%A7%C3%B5es%20%2B%20Arrays/) |
-| 16 | Funções em Structs | `struct`, construtor, métodos | [📖](./16%20-%20Fun%C3%A7%C3%B5es%20em%20Structs/) |
-| 17 | Listas (`List<T>`) | `Add()`, `Find()`, `FindAll()`, `foreach` | [📖](./17%20-%20Lista%20e%20FindAll/) |
+| 06 | Switch | `switch` / `case` | [📖](./06%20-%20Switch/) |
+| 07 | Enum | `enum`, valores numéricos, cast | [📖](./07%20-%20Enum/) |
+| 08 | Enum + Switch | Menu de opções com `enum` e `switch` | [📖](./08%20-%20EnumSwitch/) |
+| 09 | While | `while`, contador | [📖](./09%20-%20While/) |
+| 10 | Do While | `do while` | [📖](./10%20-Do-While/) |
+| 11 | Foreach | Percorrer coleções | [📖](./11%20-%20Foreach/) |
+| 12 | For | `for` crescente e decrescente | [📖](./12%20-%20For/) |
+| 12.1 | 📝 Foreach e For | `foreach`, `for` com `if/else` | [📖](./12.1%20-%20Exercicio%20Foreach/) |
+| 13 | 🚀 Projeto Calculadora | Operações e menu no console | [📖](./13%20-%20ProjetoCalculadora/) |
+| 14 | Struct | `struct` e campos | [📖](./14%20-%20Struct/) |
+| 15 | Constructor | Construtores em `struct` | [📖](./15%20-%20Constructor/) |
+| 16 | Funções em Structs | Métodos e `this` | [📖](./16%20-%20FuncoesEmStructs/) |
+| 17 | Listas (`List<T>`) | `Add()`, `Find()`, `FindAll()`, `foreach` | [📖](./17%20-%20Listas/) |
+| 18 | 🚀 Gestor de Clientes | CRUD no console com arquivo | [📖](./18%20-%20GestorDeClientesCmd/) |
 
 ---
 
 ## 🧠 Conceitos dominados
 
-<grid columns=2><grid-item>
-    <box background=surface radius=xl padding=3 gap=2 border=1 height="100%">
-      <row gap=2 align=center>
-        <icon name=cog color=discovery />
-        **Fundamentos**
-      </row>
-      <box gap=1 padding={{ left: 1 }}>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Entrada e saída no console</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Variáveis e tipos primitivos</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Constantes com `const`</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Conversão de tipos (`Parse`, `Convert` e cast)</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Interpolação de strings</text></row>
-      </box>
-    </box>
-  </grid-item><grid-item>
-    <box background=surface radius=xl padding=3 gap=2 border=1 height="100%">
-      <row gap=2 align=center>
-        <icon name=code color=discovery />
-        **Estruturação**
-      </row>
-      <box gap=1 padding={{ left: 1 }}>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Métodos com e sem retorno</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Parâmetros e argumentos</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Modificador `static`</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>Arrays de tamanho fixo</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>`struct` com construtores e métodos</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>`List<T>` e expressões lambda</text></row>
-        <row gap=2 align=center><icon name=check color=success/><text size=sm>`foreach` para percorrer coleções</text></row>
-      </box>
-    </box>
-  </grid-item></grid>
+| ⚙️ Fundamentos | 🧩 Estruturação |
+|----------------|-----------------|
+| Entrada e saída no console | Métodos com e sem retorno |
+| Variáveis e tipos primitivos | Parâmetros e argumentos |
+| Constantes com `const` | Arrays e `List<T>` |
+| Conversão de tipos (`Parse`, `Convert`, cast) | `struct` com construtores e métodos |
+| Interpolação de strings | `enum` |
+| `if` / `else` e `switch` | Expressões lambda |
+| `while`, `do while`, `for`, `foreach` | Leitura e gravação em arquivo |
 
 ---
 
@@ -113,39 +103,36 @@ Abra o arquivo `.sln` (ou `.slnx`) do módulo desejado e execute com:
 
 ### ✅ Concluído
 
-- [x] Entrada de dados
-- [x] Constantes
-- [x] Funções
-- [x] Funções com retorno
+- [x] Entrada de dados e constantes
+- [x] Funções e funções com retorno
 - [x] Arrays
-- [x] Structs
+- [x] Condicionais (`if`, `switch`) e `enum`
+- [x] Laços (`while`, `do while`, `for`, `foreach`)
+- [x] Structs e construtores
 - [x] Listas (`List<T>`) e filtros (`FindAll`)
+- [x] Projeto Calculadora
+- [x] Projeto Gestor de Clientes
 
-### 📚 Próximos módulos
+### 📚 Próximos passos
 
-- [ ] Estruturas condicionais (`if`, `else if`, `switch`)
-- [ ] Estruturas de repetição (`while`, `do while`)
-- [ ] Programação Orientada a Objetos
-- [ ] Encapsulamento
-- [ ] Herança
-- [ ] Polimorfismo
-- [ ] Interfaces
+- [ ] Programação Orientada a Objetos (classes, herança, polimorfismo, interfaces)
 - [ ] Tratamento de exceções
-- [ ] Os **4 projetos finais** do curso
+- [ ] Desenvolvimento com .NET moderno
 
 ---
 
 ## 📈 Evolução
 
-Atualmente já pratiquei:
+Ao concluir o curso, pratiquei:
 
 - Criação de métodos reutilizáveis;
+- Estruturas de decisão e repetição;
 - Manipulação de arrays e listas;
-- Uso de `struct` para organizar dados;
+- Uso de `struct` e `enum` para organizar dados;
 - Expressões lambda para filtragem;
-- Construção de pequenos projetos de console.
+- Construção de projetos de console completos, como a calculadora e o gestor de clientes.
 
-A ideia é que este repositório acompanhe toda a minha evolução até chegar ao desenvolvimento com **C# e .NET**.
+O próximo passo é aprofundar em **Orientação a Objetos** e no ecossistema **.NET**.
 
 ---
 
